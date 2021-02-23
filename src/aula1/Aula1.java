@@ -10,7 +10,7 @@ public class Aula1 extends JFrame {
        setTitle("Primeira janela");
        setSize(400,50);
        setLocation(150,150);
-       setResizable(false);
+       setResizable(true);
        getContentPane().setBackground(Color.gray);
    }        
  
